@@ -1,0 +1,25 @@
+CACHE MANIFEST
+
+CACHE:
+concertVenue.html
+fansAppeal.html
+index.html
+news.html
+tourSchedule.html
+css/style.css
+/img/logo.png
+/img/back.jpg
+/img/concert.jpg
+/img/groupBack.jpg
+/img/news1.jpg
+/img/news2.jpg
+/img/news3.jpg
+/img/news4.jpg
+/img/remember.jpg
+/css/bootstrap.min.css
+
+NETWORK:
+*
+
+FALLBACK:
+admin.html error.html
